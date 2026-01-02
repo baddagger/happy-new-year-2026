@@ -1,5 +1,5 @@
 <p align="center">
-<img src="image.jpg" alt="Banner">
+<img src="banner.jpg" alt="Banner">
 </p>
 
 # Happy New Year 2026
